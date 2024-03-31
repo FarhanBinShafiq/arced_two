@@ -14,25 +14,10 @@
   <br />
   <div align="center">
     <a href="https://github.com/mdyeates/my-portfolio">
-      <img src="images/logo.png" alt="Logo" width="300" height="300">
+      <img src="images/logo.png" alt="Logo" width="450" height="300">
     </a>
     <h1 align="center">Arced Foundation</h1>
-    <p align="center">
-    <br/>
-Crafting Connections through Code: Explore my journey, projects, and passions in this immersive portfolio powered by React.<br/>
-      <br/>
-      Built by: Michael Yeates
-      <br/>
-      <br/>
-      <a href="https://github.com/mdyeates/my-portfolio"><strong>Explore the docs »</strong></a>
-      <br/>
-      <br/>
-      <a href="https://michaelyeates.co.uk">View Live Website</a>
-      ·
-      <a href="https://github.com/mdyeates/my-portfolio/issues">Report Bug</a>
-      ·
-      <a href="https://github.com/mdyeates/my-portfolio/issues">Request Feature</a>
-    </p>
+    <p align="center">Think Change, Think Data  </p>
   </div>
   
   <!-- TABLE OF CONTENTS -->
