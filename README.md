@@ -6,7 +6,7 @@
     <a href="https://github.com/mdyeates/my-portfolio">
       <img src="images/logo.png" alt="Logo" width="450" height="250">
     </a>
-    <h1 align="center">Arced Foundation</h1>
+    <h1 align="center">Think Change, Think Data</h1>
    
   </div>
 <div align="center">
