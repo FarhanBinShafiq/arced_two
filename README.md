@@ -1,3 +1,11 @@
+  <div align="center">
+    <a href="https://github.com/mdyeates/my-portfolio">
+      <img src="images/logo.png" alt="Logo" width="450" height="250">
+    </a>
+    <h1 align="center">Arced Foundation</h1>
+   
+  </div>
+
 <a href="https://github.com/ARCED-Foundation">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://discord.com/users/Mr.%20Pixymon">
