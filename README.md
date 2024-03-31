@@ -14,7 +14,7 @@
   <br />
   <div align="center">
     <a href="https://github.com/mdyeates/my-portfolio">
-      <img src="src/images/logo.png" alt="Logo" width="300" height="300">
+      <img src="images/logo.png" alt="Logo" width="300" height="300">
     </a>
     <h1 align="center">Arced Foundation</h1>
     <p align="center">
