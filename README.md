@@ -14,9 +14,9 @@
   <br />
   <div align="center">
     <a href="https://github.com/mdyeates/my-portfolio">
-      <img src="src/images/logo.svg" alt="Logo" width="200" height="200">
+      <img src="src/images/logo.png" alt="Logo" width="300" height="300">
     </a>
-    <h1 align="center">michaelyeates.co.uk</h1>
+    <h1 align="center">Arced Foundation</h1>
     <p align="center">
     <br/>
 Crafting Connections through Code: Explore my journey, projects, and passions in this immersive portfolio powered by React.<br/>
