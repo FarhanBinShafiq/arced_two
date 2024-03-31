@@ -1,3 +1,7 @@
+.markdown-body h1{
+   display:none
+}
+  
   <div align="center">
     <a href="https://github.com/mdyeates/my-portfolio">
       <img src="images/logo.png" alt="Logo" width="450" height="250">
@@ -6,16 +10,8 @@
    
   </div>
 <div align="center">
-<a href="https://github.com/ARCED-Foundation">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://discord.com/users/Mr.%20Pixymon">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://twitter.com/Nlarsen23">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="mailto: minecraftcrusher100@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="mailto: nlarsen23@protonmail.com">
-  <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
+<a href="https://github.com/ARCED-Foundation"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  
 </div>
 
 <br />
