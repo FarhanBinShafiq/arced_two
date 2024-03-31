@@ -1,3 +1,4 @@
+<h1 display="none"></h1>
 <a name="readme-top"></a>
 
   <!-- PROJECT SHIELDS -->
