@@ -28,13 +28,8 @@ Aureolin Research, Consultancy, and Expertise Development (ARCED) Foundation is 
  
 <h1 align="center">Arced Foundation</h1>
 
-
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GrandMoff100&theme=github"
-</p>
-
-<p align="center">
-  <a href="https://github.com/GrandMoff100">
+  <a href="https://github.com/ARCED-Foundation">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://discord.com/users/Mr.%20Pixymon">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
