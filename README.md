@@ -1,8 +1,4 @@
-.markdown-body h1{
-   display:none
-}
-  
-  <div align="center">
+<div align="center">
     <a href="https://github.com/mdyeates/my-portfolio">
       <img src="images/logo.png" alt="Logo" width="450" height="250">
     </a>
