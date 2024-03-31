@@ -26,8 +26,8 @@ Aureolin Research, Consultancy, and Expertise Development (ARCED) Foundation is 
  
   
  
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> I'm Nate!</h1>
-<h3 align="center">I love Data Science, Automation, Web-Development, and Open-Source!</h3>
+<h1 align="center">Arced Foundation</h1>
+
 
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GrandMoff100&theme=github"
