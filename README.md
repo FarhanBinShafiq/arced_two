@@ -80,19 +80,19 @@ Aureolin Research, Consultancy, and Expertise Development (ARCED) Foundation is 
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
-<a href="https://replit.com/@GrandMoff100">
+<a href="https://replit.com/@ARCED-Foundation">
   <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=repl-dot-it&logoColor=white"></a>
 <img src="https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white">
 <p align="center"><strong>I use Arch, btw</strong></p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=grandmoff100&" alt="grandmoff100" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARCED-Foundation&" alt="ARCED-Foundation" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GrandMoff100&theme=github">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GrandMoff100&theme=github&utcOffset=-5">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ARCED-Foundation&theme=github">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ARCED-Foundation&theme=github&utcOffset=-5">
 </p>
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=grandmoff100" alt="grandmoff100" />
+        <img src="https://github-profile-trophy.vercel.app/?username=ARCED-Foundation" alt="ARCED-Foundation" />
     </a>
 </p>
