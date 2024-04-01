@@ -64,7 +64,7 @@
         <!-- Coinflip Repository Card -->
         <div
           style="
-            width: calc(50% - 20%);
+            width:50%;
             background-color: #ffffff;
             color: #1a1a1a;
             border-radius: 10px;
@@ -117,7 +117,7 @@
  <!-- Catigen Repository Card -->
         <div
           style="
-            width: calc(50% - 20%);
+           width:50%;
             background-color: #ffffff;
             color: #1a1a1a;
             border-radius: 10px;
@@ -170,7 +170,7 @@
  <!-- Odkmerge Repository Card -->
         <div
           style="
-            width: calc(50% - 20%);
+           width:50%;
             background-color: #ffffff;
             color: #1a1a1a;
             border-radius: 10px;
@@ -223,7 +223,7 @@
   <!-- Odksplit Repository Card -->
         <div
           style="
-             width: calc(50% - 20%);
+         width:50%;
             background-color: #ffffff;
             color: #1a1a1a;
             border-radius: 10px;
@@ -277,7 +277,7 @@
  <!-- Integer-placeholder Repository Card -->
         <div
           style="
-            width: calc(50% - 20%);
+            width:50%;
             background-color: #ffffff;
             color: #1a1a1a;
             border-radius: 10px;
@@ -330,7 +330,7 @@
   <!-- Translation-tables Repository Card -->
         <div
           style="
-           width: calc(50% - 20%);
+        width:50%;
             background-color: #ffffff;
             color: #1a1a1a;
             border-radius: 10px;
@@ -382,9 +382,6 @@
       </div>
     </div>
 
-
-     
-
   <footer
       style="
           color: rgb(0, 0, 0);
@@ -395,8 +392,6 @@
       <p>&copy; 2024 ARCED Foundation. All rights reserved.</p>
        
 </footer>
-
-
 
 </div>
    <div style="display: flex; padding: 2%; justify-content: center">
