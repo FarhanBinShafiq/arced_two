@@ -53,11 +53,117 @@
 <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
 
 </div>
-
- <div style="margin-top: 3%">
+   <div style="display: flex; padding: 2%; justify-content: center">
+      <a
+        href="https://arced.foundation/"
+        style="
+          background-color: #2ea44f;
+          color: white;
+          padding: 10px 20px;
+          text-decoration: none;
+          border-radius: 5px;
+          margin-right: 10px;
+        "
+        >Website</a
+      >
+      <a
+        href="https://github.com/ARCED-Foundation"
+        style="
+          background-color: #2ea44f;
+          color: white;
+          padding: 10px 20px;
+          text-decoration: none;
+          border-radius: 5px;
+          margin-right: 10px;
+        "
+        >Github</a
+      >
+      <a
+        href="https://www.linkedin.com/company/aarced/?originalSubdomain=bd"
+        style="
+          background-color: #2ea44f;
+          color: white;
+          padding: 10px 20px;
+          text-decoration: none;
+          border-radius: 5px;
+          margin-right: 10px;
+        "
+        >LinkedIn</a
+      >
+      <a
+        href="https://arced.foundation/publication.php"
+        style="
+          background-color: #2ea44f;
+          color: white;
+          padding: 10px 20px;
+          text-decoration: none;
+          border-radius: 5px;
+          margin-right: 10px;
+        "
+        >Publication</a
+      >
+      <a
+        href="https://arced.foundation/project.php"
+        style="
+          background-color: #2ea44f;
+          color: white;
+          padding: 10px 20px;
+          text-decoration: none;
+          border-radius: 5px;
+        "
+        >Projects</a
+      >
+    </div>
+    <div style="margin-top: 3%">
+      <h3 align="center">Languages and Tools:</h3>
+      <div
+        style="
+          display: flex;
+   padding: 2%;
+          justify-content: center;
+        "
+      >
+        <p align="left">
+          <!-- Dummy options added -->
+          <a href="https://www.stata.com/" target="_blank" rel="noreferrer">
+            <img src="./images/stata.png" alt="stata" width="80" height="80" />
+          </a>
+          <a
+            href="https://www.w3schools.com/css/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img src="./images/css.png" alt="css3" width="80" height="80" />
+          </a>
+          <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+            <img src="./images/html.png" alt="html5" width="80" height="80" />
+          </a>
+          <a
+            href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img
+              src="./images/js.png"
+              alt="javascript"
+              width="80"
+              height="80"
+            />
+          </a>
+          <a href="https://www.python.org" target="_blank" rel="noreferrer">
+            <img
+              src="./images/python.jpeg"
+              alt="python"
+              width="80"
+              height="80"
+            />
+          </a>
+        </p>
+      </div>
+    </div>
+    <div style="margin-top: 3%">
       <h2 style="text-align: center; margin-bottom: 1%">GitHub Repositories</h2>
-
-  <div
+      <div
         style="
           display: flex;
           flex-wrap: wrap;
@@ -118,7 +224,7 @@
             </div>
           </div>
         </div>
-        <!-- Catigen Repository Card -->
+       <!-- Catigen Repository Card -->
         <div
           style="
             width: calc(50% - 20%);
@@ -130,7 +236,7 @@
             transition: transform 0.3s ease, background-color 0.3s ease;
             cursor: pointer;
           "
-          onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0px 8px 20px rgba(0, 0, 0, 0.2)'; this.style.backgroundColor='#ffc107'; this.style.color='white';"
+          onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0px 8px 20px rgba(0, 0, 0, 0.2)'; this.style.backgroundColor='navy'; this.style.color='white';"
           onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0px 4px 10px rgba(0, 0, 0, 0.1)'; this.style.backgroundColor='#ffffff'; this.style.color='#1a1a1a';"
         >
           <div style="padding: 20px">
@@ -171,7 +277,7 @@
             </div>
           </div>
         </div>
-<!-- Odkmerge Repository Card -->
+     <!-- Odkmerge Repository Card -->
         <div
           style="
             width: calc(50% - 20%);
@@ -223,7 +329,8 @@
               >
             </div>
           </div>
-        </div>   <!-- Odksplit Repository Card -->
+        </div>
+        <!-- Odksplit Repository Card -->
         <div
           style="
              width: calc(50% - 20%);
@@ -277,7 +384,7 @@
             </div>
           </div>
         </div>
- <!-- Integer-placeholder Repository Card -->
+   <!-- Integer-placeholder Repository Card -->
         <div
           style="
             width: calc(50% - 20%);
@@ -330,7 +437,7 @@
             </div>
           </div>
         </div>
-  <!-- Translation-tables Repository Card -->
+   <!-- Translation-tables Repository Card -->
         <div
           style="
            width: calc(50% - 20%);
@@ -383,34 +490,6 @@
           </div>
         </div>
       </div>
-    </div>
-    <div
-      style="
-        width: 90%;
-        height: 300px;
-        margin: 20px auto;
-        padding: 20px;
-        background-color: #fff;
-        border-radius: 8px;
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-      "
-    >
-      <h1 style="color: #333;margin-bottom: 30px; text-align: center">
-        Data Collection and Quality Control
-      </h1>
-      <p>
-        ARCED is the pioneer organization to introduce technology-driven data
-        collection methods using mobile devices such as PDAs and smartphones in
-        Bangladesh. Since 2003, it has been working on SMS, IVR, GPS, GIS, and
-        online platforms for various types of surveys and assessments. ARCED
-        Foundation has been organizing training and workshops on advanced data
-        collection methods and data quality control techniques since its
-        establishment.  With its partners, ARCED Foundation organized several workshops and
-        training programs on research methods, data collection techniques, and
-        data analysis. It has also been engaged in evaluating and redesigning
-        questionnaires of different types of surveys conducted by both the
-        government and non-government organizations in Bangladesh.
-      </p>
     </div>
   <footer
       style="
