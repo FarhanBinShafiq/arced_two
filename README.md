@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
     <a href="https://github.com/mdyeates/my-portfolio">
       <img src="images/logo.png" alt="Logo" width="450" height="250">
     </a>
@@ -382,6 +382,22 @@
       </div>
     </div>
 
+
+     
+
+  <footer
+      style="
+          color: rgb(0, 0, 0);
+         padding: 20px;
+        text-align: center;
+      "
+    >
+      <p>&copy; 2024 ARCED Foundation. All rights reserved.</p>
+       
+</footer>
+
+
+
 </div>
    <div style="display: flex; padding: 2%; justify-content: center">
       <a
@@ -444,61 +460,3 @@
         >Projects</a
       >
     </div>
-    <div style="margin-top: 3%">
-      <h3 align="center">Languages and Tools:</h3>
-      <div
-        style="
-          display: flex;
-   padding: 2%;
-          justify-content: center;
-        "
-      >
-        <p align="left">
-          <!-- Dummy options added -->
-          <a href="https://www.stata.com/" target="_blank" rel="noreferrer">
-            <img src="./images/stata.png" alt="stata" width="80" height="80" />
-          </a>
-          <a
-            href="https://www.w3schools.com/css/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <img src="./images/css.png" alt="css3" width="80" height="80" />
-          </a>
-          <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-            <img src="./images/html.png" alt="html5" width="80" height="80" />
-          </a>
-          <a
-            href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <img
-              src="./images/js.png"
-              alt="javascript"
-              width="80"
-              height="80"
-            />
-          </a>
-          <a href="https://www.python.org" target="_blank" rel="noreferrer">
-            <img
-              src="./images/python.jpeg"
-              alt="python"
-              width="80"
-              height="80"
-            />
-          </a>
-        </p>
-      </div>
-    </div>
-
-  <footer
-      style="
-          color: rgb(0, 0, 0);
-         padding: 20px;
-        text-align: center;
-      "
-    >
-      <p>&copy; 2024 ARCED Foundation. All rights reserved.</p>
-       
-</footer>
