@@ -73,7 +73,7 @@
             transition: transform 0.3s ease, background-color 0.3s ease;
             cursor: pointer;
           "
-          onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0px 8px 20px rgba(0, 0, 0, 0.2)'; this.style.backgroundColor='navy'; this.style.color='white';"
+          onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0px 8px 20px rgba(0, 0, 0, 0.2)'; this.style.backgroundColor='#ffc107'; this.style.color='white';"
           onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0px 4px 10px rgba(0, 0, 0, 0.1)'; this.style.backgroundColor='#ffffff'; this.style.color='#1a1a1a';"
         >
           <div style="padding: 20px">
@@ -126,7 +126,7 @@
             transition: transform 0.3s ease, background-color 0.3s ease;
             cursor: pointer;
           "
-          onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0px 8px 20px rgba(0, 0, 0, 0.2)'; this.style.backgroundColor='navy'; this.style.color='white';"
+          onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0px 8px 20px rgba(0, 0, 0, 0.2)'; this.style.backgroundColor='#ffc107'; this.style.color='white';"
           onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0px 4px 10px rgba(0, 0, 0, 0.1)'; this.style.backgroundColor='#ffffff'; this.style.color='#1a1a1a';"
         >
           <div style="padding: 20px">
@@ -179,7 +179,7 @@
             transition: transform 0.3s ease, background-color 0.3s ease;
             cursor: pointer;
           "
-          onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0px 8px 20px rgba(0, 0, 0, 0.2)'; this.style.backgroundColor='navy'; this.style.color='white';"
+          onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0px 8px 20px rgba(0, 0, 0, 0.2)'; this.style.backgroundColor='#ffc107'; this.style.color='white';"
           onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0px 4px 10px rgba(0, 0, 0, 0.1)'; this.style.backgroundColor='#ffffff'; this.style.color='#1a1a1a';"
         >
           <div style="padding: 20px">
@@ -232,7 +232,7 @@
             transition: transform 0.3s ease, background-color 0.3s ease;
             cursor: pointer;
           "
-          onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0px 8px 20px rgba(0, 0, 0, 0.2)'; this.style.backgroundColor='navy'; this.style.color='white';"
+          onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0px 8px 20px rgba(0, 0, 0, 0.2)'; this.style.backgroundColor='#ffc107'; this.style.color='white';"
           onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0px 4px 10px rgba(0, 0, 0, 0.1)'; this.style.backgroundColor='#ffffff'; this.style.color='#1a1a1a';"
         >
           <div style="padding: 20px">
@@ -286,7 +286,7 @@
             transition: transform 0.3s ease, background-color 0.3s ease;
             cursor: pointer;
           "
-          onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0px 8px 20px rgba(0, 0, 0, 0.2)'; this.style.backgroundColor='navy'; this.style.color='white';"
+          onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0px 8px 20px rgba(0, 0, 0, 0.2)'; this.style.backgroundColor='#ffc107'; this.style.color='white';"
           onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0px 4px 10px rgba(0, 0, 0, 0.1)'; this.style.backgroundColor='#ffffff'; this.style.color='#1a1a1a';"
         >
           <div style="padding: 20px">
@@ -339,7 +339,7 @@
             transition: transform 0.3s ease, background-color 0.3s ease;
             cursor: pointer;
           "
-          onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0px 8px 20px rgba(0, 0, 0, 0.2)'; this.style.backgroundColor='navy'; this.style.color='white';"
+          onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0px 8px 20px rgba(0, 0, 0, 0.2)'; this.style.backgroundColor='#ffc107'; this.style.color='white';"
           onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0px 4px 10px rgba(0, 0, 0, 0.1)'; this.style.backgroundColor='#ffffff'; this.style.color='#1a1a1a';"
         >
           <div style="padding: 20px">
