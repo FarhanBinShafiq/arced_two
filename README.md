@@ -78,7 +78,7 @@
           onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0px 4px 10px rgba(0, 0, 0, 0.1)'; this.style.backgroundColor='#ffc107'; this.style.color='white';;"
         >
           <div style="padding: 20px">
-            <h3 style="margin: 0; text-transform: uppercase; color: #ffc107">
+            <h3 style="margin: 0; text-transform: uppercase; color: #009999">
               Coinflip
             </h3>
             <p style="margin: 10px 0 0">
@@ -128,10 +128,10 @@
             cursor: pointer;
           "
           onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0px 8px 20px rgba(0, 0, 0, 0.2)'; this.style.backgroundColor='White; this.style.color='black';"
-          onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0px 4px 10px rgba(0, 0, 0, 0.1)'; this.style.backgroundColor='#ffc107'; this.style.color='white';;"
+          onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0px 4px 10px rgba(0, 0, 0, 0.1)'; this.style.backgroundColor=''; this.style.color='white';;"
         >
           <div style="padding: 20px">
-            <h3 style="margin: 0; text-transform: uppercase; color: #ffc107">
+            <h3 style="margin: 0; text-transform: uppercase; color: #009999">
               Catigen
             </h3>
             <p style="margin: 10px 0 0">
@@ -184,7 +184,7 @@
           onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0px 4px 10px rgba(0, 0, 0, 0.1)'; this.style.backgroundColor='#ffc107'; this.style.color='white';;"
         >
           <div style="padding: 20px">
-            <h3 style="margin: 0; text-transform: uppercase; color: #ffc107">
+            <h3 style="margin: 0; text-transform: uppercase; color: #009999">
               Odkmerge
             </h3>
             <p style="margin: 10px 0 0">
@@ -237,7 +237,7 @@
           onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0px 4px 10px rgba(0, 0, 0, 0.1)'; this.style.backgroundColor='#ffc107'; this.style.color='white';;"
         >
           <div style="padding: 20px">
-            <h3 style="margin: 0; text-transform: uppercase; color: #ffc107">
+            <h3 style="margin: 0; text-transform: uppercase; color: #009999">
               Odksplit
             </h3>
             <p style="margin: 10px 0 0">
@@ -291,7 +291,7 @@
           onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0px 4px 10px rgba(0, 0, 0, 0.1)'; this.style.backgroundColor='#ffc107'; this.style.color='white';;"
         >
           <div style="padding: 20px">
-            <h3 style="margin: 0; color: #ffc107; text-transform: uppercase">
+            <h3 style="margin: 0; color: #009999; text-transform: uppercase">
               Integer-placeholder
             </h3>
             <p style="margin: 10px 0 0">
@@ -344,7 +344,7 @@
           onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0px 4px 10px rgba(0, 0, 0, 0.1)'; this.style.backgroundColor='#ffc107'; this.style.color='white';;"
         >
           <div style="padding: 20px">
-            <h3 style="margin: 0; color: #ffc107; text-transform: uppercase">
+            <h3 style="margin: 0; color: #009999; text-transform: uppercase">
               Translation-tables
             </h3>
             <p style="margin: 10px 0 0">
