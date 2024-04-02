@@ -64,7 +64,7 @@
         <!-- Coinflip Repository Card -->
         <div
           style="
-            width:50%;
+            width:400px;
             background-color: #ffffff;
             color: #1a1a1a;
             border-radius: 10px;
@@ -117,7 +117,7 @@
  <!-- Catigen Repository Card -->
         <div
           style="
-           width:50%;
+           width:400px;
             background-color: #ffffff;
             color: #1a1a1a;
             border-radius: 10px;
@@ -170,7 +170,7 @@
  <!-- Odkmerge Repository Card -->
         <div
           style="
-           width:50%;
+           width:400px;
             background-color: #ffffff;
             color: #1a1a1a;
             border-radius: 10px;
@@ -223,7 +223,7 @@
   <!-- Odksplit Repository Card -->
         <div
           style="
-         width:50%;
+         width:400px;
             background-color: #ffffff;
             color: #1a1a1a;
             border-radius: 10px;
@@ -277,7 +277,7 @@
  <!-- Integer-placeholder Repository Card -->
         <div
           style="
-            width:50%;
+            width:400px;
             background-color: #ffffff;
             color: #1a1a1a;
             border-radius: 10px;
@@ -330,7 +330,7 @@
   <!-- Translation-tables Repository Card -->
         <div
           style="
-        width:50%;
+        width:400px;
             background-color: #ffffff;
             color: #1a1a1a;
             border-radius: 10px;
