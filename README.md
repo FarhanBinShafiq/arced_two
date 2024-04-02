@@ -7,6 +7,7 @@
   </div>
 <div align="center">
 <a href="https://github.com/ARCED-Foundation"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://twitter.com/foundationarced" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="foundationarced" height="30" width="40" /></a>
   
 </div>
 
