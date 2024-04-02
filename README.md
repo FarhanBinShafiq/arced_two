@@ -128,7 +128,7 @@
             cursor: pointer;
           "
           onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0px 8px 20px rgba(0, 0, 0, 0.2)'; this.style.backgroundColor='White; this.style.color='black';"
-          onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0px 4px 10px rgba(0, 0, 0, 0.1)'; this.style.backgroundColor=''; this.style.color='black';;"
+          onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0px 4px 10px rgba(0, 0, 0, 0.1)'; this.style.backgroundColor='#ffc107'; this.style.color='black';;"
         >
           <div style="padding: 20px">
             <h3 style="margin: 0; text-transform: uppercase; color: #009999">
