@@ -63,7 +63,8 @@
         <div
           style="
             width:400px;
-           color:#ffffff;
+           background-color:white;
+           color:black;
             border-radius: 10px;
             box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
             margin-bottom: 20px;
@@ -115,8 +116,8 @@
         <div
           style="
            width:400px;
-            background-color:red;
-           color:#ffffff;
+           background-color:white;
+           color:black;
             border-radius: 10px;
             box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
             margin-bottom: 20px;
@@ -168,7 +169,8 @@
         <div
           style="
            width:400px;
-            color:#ffffff;
+           background-color:white;
+           color:black;
             border-radius: 10px;
             box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
             margin-bottom: 20px;
@@ -220,7 +222,8 @@
         <div
           style="
          width:400px;
-           color:#ffffff;
+          background-color:white;
+           color:black;
             border-radius: 10px;
             box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
             margin-bottom: 20px;
@@ -325,7 +328,8 @@
         <div
           style="
         width:400px;
-         color:#ffffff;
+            background-color:white;
+           color:black;
             border-radius: 10px;
             box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
             margin-bottom: 20px;
