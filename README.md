@@ -55,19 +55,15 @@
   <div style="margin-top: 3%">
       <h2 style="text-align: center; margin-bottom: 1%">GitHub Repositories</h2>
  <div
-    style="
-        display: flex;
+    style=" display: flex;
           flex-wrap: wrap;
           justify-content: center;
           gap: 20px;
-        "
-      >
-        <!-- Coinflip Repository Card -->
+ "> <!-- Coinflip Repository Card -->
         <div
           style="
             width:400px;
-            background-color: #ffffff;
-            color:#ffffff;
+           color:#ffffff;
             border-radius: 10px;
             box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
             margin-bottom: 20px;
@@ -119,8 +115,7 @@
         <div
           style="
            width:400px;
-            background-color: #ffffff;
-            color:#ffffff;
+          color:#ffffff;
             border-radius: 10px;
             box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
             margin-bottom: 20px;
@@ -172,7 +167,6 @@
         <div
           style="
            width:400px;
-            background-color: #ffffff;
             color:#ffffff;
             border-radius: 10px;
             box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
@@ -225,8 +219,7 @@
         <div
           style="
          width:400px;
-            background-color: #ffffff;
-            color:#ffffff;
+           color:#ffffff;
             border-radius: 10px;
             box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
             margin-bottom: 20px;
@@ -279,7 +272,6 @@
         <div
           style="
             width:400px;
-            background-color: #ffffff;
             color:#ffffff;
             border-radius: 10px;
             box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
@@ -332,8 +324,7 @@
         <div
           style="
         width:400px;
-            background-color: #ffffff;
-            color:#ffffff;
+         color:#ffffff;
             border-radius: 10px;
             box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
             margin-bottom: 20px;
